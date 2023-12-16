@@ -1,0 +1,72 @@
+﻿  main.cpp
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(107,5): error C3861: 'textcolor': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(10,6): error C2084: function 'void SuDungToanBoTiengViet(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(10,6):
+  see previous definition of 'SuDungToanBoTiengViet'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(16,6): error C2084: function 'void KhungDangNhap(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(16,6):
+  see previous definition of 'KhungDangNhap'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(35,6): error C2084: function 'void KhungMatKhauSinhVien(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(35,6):
+  see previous definition of 'KhungMatKhauSinhVien'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(46,6): error C2084: function 'void KhungDanhSachGiangVien(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(46,6):
+  see previous definition of 'KhungDanhSachGiangVien'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(56,6): error C2084: function 'void DANHSACH(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(56,6):
+  see previous definition of 'DANHSACH'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(68,6): error C2084: function 'void MenuQuanLy(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(68,6):
+  see previous definition of 'MenuQuanLy'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(93,6): error C2084: function 'void BANGDIEMSV(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(93,6):
+  see previous definition of 'BANGDIEMSV'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(107,5): error C3861: 'textcolor': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(110,6): error C2084: function 'void NHAPSINHVIEN(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(110,6):
+  see previous definition of 'NHAPSINHVIEN'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(133,6): error C2084: function 'void KhungDanhSachSinhVien(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(133,6):
+  see previous definition of 'KhungDanhSachSinhVien'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(148,6): error C2084: function 'void CHUONGTRINHDAOTAO(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(148,6):
+  see previous definition of 'CHUONGTRINHDAOTAO'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(175,6): error C2084: function 'void BANGTIMKIEM(void)' already has a body
+  (compiling source file 'main.cpp')
+  C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\GiaoDien.h(175,6):
+  see previous definition of 'BANGTIMKIEM'
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\LuongHoatDong.h(154,3): error C2065: 'KhungMatKhauSinhVien': undeclared identifier
+  (compiling source file 'main.cpp')
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\LuongHoatDong.h(155,3): error C3861: 'gotoxy': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\LuongHoatDong.h(165,6): error C3861: 'gotoxy': identifier not found
+  (compiling source file 'main.cpp')
+  
+C:\Users\quang\Downloads\QuanLySinhVien\QuanLySinhVien\main.cpp(11,2): error C2065: 'SuDungToanBoTiengViet': undeclared identifier
